@@ -1,0 +1,13 @@
+{
+  "name": "weather",
+  "app_id": "cdd99b43",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
